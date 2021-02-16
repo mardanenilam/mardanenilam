@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nilam Mardane 
 - 👀 I’m interested in coding 
-- 🌱 I keep learning and I don't have to be bored. I am my own companion. :)
+- 🌱 I keep learning and I don't have time to be bored. I am my own companion. :)
 
 
 <!---
